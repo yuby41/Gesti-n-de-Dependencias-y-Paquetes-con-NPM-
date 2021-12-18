@@ -1,0 +1,11 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "\"Construir un paquete para node\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"yualbe Luis <lois21us@gmail.com>",
+  "license": "MIT"
+}
